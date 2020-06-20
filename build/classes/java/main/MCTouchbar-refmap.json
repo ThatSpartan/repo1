@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "io/github/Ashley1227/mctouchbar/mixin/WindowMixin": {
+      "Lnet/minecraft/client/util/Window;\u003cinit\u003e(Lnet/minecraft/client/WindowEventHandler;Lnet/minecraft/client/util/MonitorTracker;Lnet/minecraft/client/WindowSettings;Ljava/lang/String;Ljava/lang/String;)V": "Lnet/minecraft/class_1041;\u003cinit\u003e(Lnet/minecraft/class_3678;Lnet/minecraft/class_323;Lnet/minecraft/class_543;Ljava/lang/String;Ljava/lang/String;)V"
+    },
+    "io/github/Ashley1227/mctouchbar/mixin/LanguageManagerMixin": {
+      "Lnet/minecraft/client/resource/language/LanguageManager;reloadResources(Ljava/util/List;)V": "Lnet/minecraft/class_1076;method_4670(Ljava/util/List;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "io/github/Ashley1227/mctouchbar/mixin/WindowMixin": {
+        "Lnet/minecraft/client/util/Window;\u003cinit\u003e(Lnet/minecraft/client/WindowEventHandler;Lnet/minecraft/client/util/MonitorTracker;Lnet/minecraft/client/WindowSettings;Ljava/lang/String;Ljava/lang/String;)V": "Lnet/minecraft/class_1041;\u003cinit\u003e(Lnet/minecraft/class_3678;Lnet/minecraft/class_323;Lnet/minecraft/class_543;Ljava/lang/String;Ljava/lang/String;)V"
+      },
+      "io/github/Ashley1227/mctouchbar/mixin/LanguageManagerMixin": {
+        "Lnet/minecraft/client/resource/language/LanguageManager;reloadResources(Ljava/util/List;)V": "Lnet/minecraft/class_1076;method_4670(Ljava/util/List;)V"
+      }
+    }
+  }
+}

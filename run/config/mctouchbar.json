@@ -1,0 +1,74 @@
+{
+  "widgets" : [ {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "debug"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  }, {
+    "identifier" : {
+      "namespace" : "mctouchbar",
+      "path" : "none"
+    }
+  } ],
+  "config" : [ {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  }, {
+    "properties" : { }
+  } ]
+}
