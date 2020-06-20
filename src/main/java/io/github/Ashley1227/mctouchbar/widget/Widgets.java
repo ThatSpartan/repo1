@@ -22,7 +22,7 @@ public class Widgets {
 
     public static Widget DEFAULT = NONE;
 
-    public static void init() {
+    public static void initt() {
         Registry.register(MCTouchbarRegistry.WIDGET, new Identifier(MCTouchbar.MODID,"none"), NONE);
         Registry.register(MCTouchbarRegistry.WIDGET, new Identifier(MCTouchbar.MODID,"test"), TEST);
 

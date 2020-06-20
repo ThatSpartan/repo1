@@ -29,7 +29,7 @@ public class MCTouchbar implements ClientModInitializer {
 	@Override
 	public void onInitializeClient() {
 		if(isMac) {
-			Widgets.init();
+			Widgets.initt();
 
 			loadConfig(CFG_FILE);
 
